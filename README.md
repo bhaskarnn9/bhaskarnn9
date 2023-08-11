@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhaskar
-- 👀 I’m interested in Data Engineering and Distributed systems
+- 👀 I’m interested in Data Engineering and Distributed Systems
 - 💞️ I’m looking to collaborate on Cloud Data Engineering projects.
 
 <!---
