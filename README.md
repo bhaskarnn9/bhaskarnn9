@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Bhaskar
-- 👀 I’m interested in machine learning techniques
-- 🌱 I’m currently learning Deep Learning and Computer Vision
-- 💞️ I’m looking to collaborate on Computer Vision as well as NLP.
-- 📫 You can reach me @ https://www.linkedin.com/in/bhaskarneellan/
+- 👀 I’m interested in Data Engineering and Distributed systems
+- 💞️ I’m looking to collaborate on Cloud Data Engineering projects.
 
 <!---
 bhaskarnn9/bhaskarnn9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
