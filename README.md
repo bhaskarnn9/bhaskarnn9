@@ -8,7 +8,7 @@ Experienced in developing and deploying scalable machine learning models.
 - Data Analysis & Visualization (Matplotlib, Seaborn)
 - API Development (Flask, FastAPI, Django)
 - Model Deployment (Docker, AWS, Heroku, MLflow)
-- MicroServices via Dockerized apps deployed on k9s
+- MicroServices via Dockerized apps deployed on k8s
 
 <!---
 bhaskarnn9/bhaskarnn9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
