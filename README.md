@@ -1,10 +1,13 @@
-🚀 Seasoned Engineer | Software Architecture 🚧 Data Engineering
+Seasoned Engineer | Software Architecture | Data Engineering
 
 Passion for architecting scalable data platforms and operationalizing machine learning systems in production. 
 I thrive at the intersection of software engineering and data engineering, bridging the gap between complex backend infrastructure and intelligent, data-driven solutions.
 
 I bring deep experience in building distributed systems, designing real-time and batch data pipelines, and deploying ML models at scale. 
 I focus on delivering robust, maintainable systems that transform raw data into actionable insights—empowering business and product decisions.
+
+**Update 06/09/2026**: From Sep 2025 I have completely transitioned into Gen AI Engineering Role. I have been building and operating large-scale backend systems in cloud-native environments.
+Currently focused on building and deploying end-to-end LLM pipelines using LangChain, LangGraph, and FastAPI, covering retrieval (Azure AI Search), vector databases (PostgreSQL), checkpointing, and multi-agent orchestration. 
 
 🔧 Skills:
 
